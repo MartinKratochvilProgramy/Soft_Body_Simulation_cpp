@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef42588e-9597-4f5a-a183-f110d1d5c2c0": {
+      "ProjectGuid": "ef42588e-9597-4f5a-a183-f110d1d5c2c0",
+      "DisplayName": "softBodySimulation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

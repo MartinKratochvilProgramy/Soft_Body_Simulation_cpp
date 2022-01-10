@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(38,52): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(132,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(133,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(137,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(138,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(141,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(142,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(145,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(146,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(149,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(150,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(153,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(154,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(173,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(174,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(176,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(177,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(184,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(185,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(188,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(189,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(192,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(193,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(232,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(233,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(281,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(282,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(307,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(307,37): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\softBodySimulation\main.cpp(315,13): warning C4305: '+=': truncation from 'double' to 'float'
+  softBodySimulation.vcxproj -> C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\softBodySimulation\x64\Debug\softBodySimulation.exe
