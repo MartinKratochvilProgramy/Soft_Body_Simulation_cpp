@@ -1,6 +1,3 @@
-# Necessary extensions
-- SFML library
-
 # How it works?
 Program was written in c++ using Microsoft Visual Studio, you can load it the VS using the .sln file.
 
